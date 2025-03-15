@@ -1,2 +1,2 @@
 # Portfolio
-My first portfolio 
+My personal development journey
